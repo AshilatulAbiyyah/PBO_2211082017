@@ -13,7 +13,7 @@ public class Latihan63_2 {
     public static void main(String args[]){
         int r;
         for (r=0; r<100; r++){
-            System.out.println("Rifa Febria Rahma"); 
+            System.out.println("Ashilatul Abiyyah"); 
         }
     }
 }

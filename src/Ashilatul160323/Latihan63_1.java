@@ -13,7 +13,7 @@ public class Latihan63_1 {
     public static void main(String args[]){
         int r = 0;
         do {
-            System.out.println("Rifa Febria Rahma");
+            System.out.println("Ashilatul Abiyyah");
             r++;
         } while (r<100);
     }

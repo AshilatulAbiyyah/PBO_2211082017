@@ -14,8 +14,8 @@ public class AddressBook {
         AddressBookEntry[] daftarAlamat = new AddressBookEntry[100];
         
         // memasukkan data
-        daftarAlamat[0] = new AddressBookEntry("Rifa", "Padang", "081234567890", "Rifa@gmail.com");
-        daftarAlamat[1] = new AddressBookEntry("ali", "Batusangkar", "081234567891", "MuhammadAli@yahoo.com");
+        daftarAlamat[0] = new AddressBookEntry("Atull", "Sijunjung", "082284785300", "ashilatulabiyah.com");
+        daftarAlamat[1] = new AddressBookEntry("Lathif", "Pessel", "081234567891", "Lathiful.lf.zz.com");
         
         // menghapus data
         daftarAlamat[1] = null;
