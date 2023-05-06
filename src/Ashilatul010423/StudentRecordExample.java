@@ -23,7 +23,7 @@ public class StudentRecordExample {
         
         cris.setName("Kris");
         cris.setAddress("Bukittinggi");
-        cris.setAge("20");
+        cris.setAge("22");
         
         ali.setName("Ali");
         ali.setAddress("Bandung");

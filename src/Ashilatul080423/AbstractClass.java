@@ -11,12 +11,12 @@ package Ashilatul080423;
 public class AbstractClass {
     public static void main(String[] args) {
         
-        Shape Circle = new Circle(14);
-        System.out.println("Area of " + Circle.getName() + " with radius " + ((Circle) Circle).getadius()  + " is " + circle.getArea());
+        Shape circle = new Circle(14);
+        System.out.println("Area of " + circle.getName() + " with radius " + ((Circle) circle).getadius()  + " is " + circle.getArea());
 
         System.out.println();
         
-        Shape Square(int) = new Square(12);
+        Shape square(int) = new Square(12);
         System.out.println("Area of " + square.getName() + " with side " + ((Square) square).getSide()  +  " is " + square.getArea());
     }
 }

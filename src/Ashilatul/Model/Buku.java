@@ -13,18 +13,17 @@ public class Buku {
    private String judul;
    private String pengarang;
    private String penerbit;
-   private int tahun;
+   private String tahun;
    
    public Buku(){
    }
    
-   public Buku(String kode, String judul, String pengarang, String penerbit, int tahun) {
+   public Buku(String kode, String judul, String pengarang, String penerbit, String tahun) {
         this.kode = kode;
         this.judul = judul;
         this.pengarang = pengarang;
         this.penerbit = penerbit;
         this.tahun = tahun;
-        
     }
     
     public String getKode(){
@@ -59,11 +58,11 @@ public class Buku {
         this.penerbit = penerbit;
     }
     
-    public int getTahun(){
+    public String getTahun(){
         return tahun;
     }
     
-    public void setTahun(int tahun){
+    public void setTahun(String tahun){
         this.tahun = tahun;
     }
 }
